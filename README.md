@@ -1,5 +1,3 @@
-Hi! My name is Muhammad Hamza, I have created this MERN Stack Ecommerce website, just to improve my skills.
-
 Install Dependencies
 For Backend - npm i
 
